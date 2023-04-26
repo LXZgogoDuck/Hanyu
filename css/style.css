@@ -1009,7 +1009,8 @@ background-position-y: 70px;
 .about-us .points{
 	position: relative;
 	list-style-type: none;
-    font-family:"Times New Roman", Times, serif;;
+    font-family:fantasy;
+    font-weight: bold;
 	padding: 5px 0 5px 30px;
 	color: #010100;
     font-size: 20px;
