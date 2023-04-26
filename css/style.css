@@ -716,7 +716,6 @@ color:#fff;
 }
 
 .service-list-col1 i {
-    display:;
     color: #888;
     font-size: 19px;
     font-style: normal;
@@ -1709,7 +1708,7 @@ padding:80px 0 60px;
     height: 40px;
     margin-top: 40px;
     opacity: 0;
-    background: url(images/zoom.png);
+    background: url(/img/zoom.jpg);
     background-size: 40px 40px;
     transition: all 0.3s ease 0.1s;
     -moz-transition: all 0.3s ease 0.2s;
@@ -1790,7 +1789,6 @@ padding:80px 0 60px;
 }
 
 #project-page-button-fullscreen li a {
-    background: url(images/close.png) no-repeat #fff;
     background-size: 50px 50px;
     width: 50px;
     height: 50px;
@@ -1961,7 +1959,6 @@ div.mc-image {
 }
 
 .in-slide-content div.info-slide {
-    background: #FFF url(images/info.png) no-repeat left bottom;
     background-size: 46px 46px;
     position: absolute;
     top: 30px;
