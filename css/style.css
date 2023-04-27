@@ -654,7 +654,7 @@ div#main-nav {
 }
 
 .service_icon i {
-  color: rgba(161, 95, 182, 0.8);
+  color: #bb3f8f;
 font-size: 40px;
 margin-top: 0;
 position: relative;
@@ -1387,7 +1387,7 @@ transition: all .3s;
 ---------------------------------*/
 
 .footer_wrapper {
-    background: rgba(161, 95, 182, 0.8);
+    background: #f59fd5;
 }
 
 .footer_bottom {
@@ -1404,7 +1404,7 @@ transition: all .3s;
 
 .footer_bottom span a {
     display: inline-block;
-    color: #f7fa9c;
+    color: #FDD83D;
     font-size: 30px;
     transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
@@ -1524,7 +1524,7 @@ transition: all .3s;
 
 #filters ul li a:hover h5, #filters ul li a.active h5 {
     background: #BC2A87;
-    color: #f7fa9c;
+    color: #FEE16F;
     text-decoration: none;
     border: #BC2A87 solid 1px;
 }
@@ -2351,7 +2351,7 @@ text-align: center;
 	background-image:none;
 }
 p{
-font-size:14px;
+font-size:18px;
 }
 .top_cont_outer { 
 height: 335px;
@@ -2396,7 +2396,7 @@ margin: 0 18px;
 .page_section.team {
     padding: 40px 0;
 }
-, #clients {
+#clients {
 padding: 40px 0;
 }
 .client_logos ul li {
